@@ -1,3 +1,7 @@
+"""
+The exception type of amath
+"""
+
 
 class MathError(Exception):
     """
