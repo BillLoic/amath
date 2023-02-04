@@ -2,7 +2,7 @@
 
 This is a first python module with prime tools.
 
-# Excamples
+# Examples
 
 ```python
 >>> import amath
