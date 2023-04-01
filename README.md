@@ -24,5 +24,5 @@ This is a first python module with prime tools.
 >>> plt.fill_between(rg, prime, zeros, alpha=0.25)
 <matplotlib.collections.PolyCollection object at 0x000001613BFFBFD0>
 >>> plt.show()
-<img src="/primeplot.png">
+![image] (/primeplot.png)
 ```
